@@ -34,7 +34,23 @@
 
 ## Как работаю
 
-Сначала разбираемся, что должно заработать и кто будет этим пользоваться. Затем согласуем объём и смотрим первую версию на вашем сценарии. Перед передачей я проверяю основные действия и готовлю инструкцию по запуску.
+<table role="presentation">
+  <tr>
+    <td width="80" valign="middle"><img src="assets/steps/step-1.png" width="56" height="56" alt="Шаг 1"></td>
+    <td valign="middle"><strong>Уточняем задачу</strong><br>
+      Разбираемся, что должно заработать и кто будет этим пользоваться.</td>
+  </tr>
+  <tr>
+    <td width="80" valign="middle"><img src="assets/steps/step-2.png" width="56" height="56" alt="Шаг 2"></td>
+    <td valign="middle"><strong>Смотрим первую версию</strong><br>
+      Согласуем объём работы и проверяем первую версию на вашем сценарии.</td>
+  </tr>
+  <tr>
+    <td width="80" valign="middle"><img src="assets/steps/step-3.png" width="56" height="56" alt="Шаг 3"></td>
+    <td valign="middle"><strong>Передаю готовый проект</strong><br>
+      Проверяю основные действия и готовлю инструкцию по запуску.</td>
+  </tr>
+</table>
 
 ## Связаться
 
