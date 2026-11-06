@@ -27,24 +27,14 @@
 
 ## Примеры решений
 
-<table>
-  <tr>
-    <td width="168" valign="middle"><a href="assets/cases/gates-overview.jpg"><img src="assets/cases/gates-overview.jpg" width="140" height="93" alt="Открыть мокап сайта «Ворота / Сервис» в полном размере"></a></td>
-    <td valign="middle"><strong>Ворота / Сервис</strong><br>
-      Посетитель выбирает тип ворот по фото и составляет запрос на ремонт или монтаж.<br>
-      <a href="https://gate-service-demo-mw.pages.dev/">Посмотреть сайт</a></td>
-  </tr>
-</table>
+<p>
+  <a href="https://gate-service-demo-mw.pages.dev/"><img src="assets/cases/gates-overview.jpg" width="370" alt="Ворота / Сервис — сайт ремонта и монтажа ворот. Открыть демо"></a>
+  <a href="assets/cases/smena-overview.jpg"><img src="assets/cases/smena-overview.jpg" width="370" alt="Смена — калькулятор аренды оборудования. Открыть мокап в полном размере"></a>
+</p>
 
-### Поток
-
-Канбан для небольшой команды. Руководитель назначает задачи, исполнитель меняет статус своих карточек, наблюдатель видит ход работы. [Код и скриншоты на GitHub](https://github.com/michaelluxwork/potok-task-tracker)
-
-[![Доска «Поток» с задачами на четырёх этапах](https://raw.githubusercontent.com/michaelluxwork/potok-task-tracker/ee7fb64d9a344d5bfeeb9c1edc88a0bbd8663f2b/docs/screenshots/board.png)](https://github.com/michaelluxwork/potok-task-tracker)
-
-- **Tonalitix.** Собирает отзывы о мобильных приложениях, показывает, на что жалуются пользователи, и помогает сравнивать продукты.
-- **Moveo.** Предлагает короткие разминки для тех, кто долго сидит за компьютером. Камера помогает отслеживать движения во время упражнения. [Открыть Moveo](https://moveoapp.ru/)
-- **Полотно.** Покупатель меняет параметры двери и сразу видит, как меняется стоимость. [Открыть калькулятор](https://michaelluxwork.github.io/calculator-portfolio/doors/)
+<p>
+  <a href="https://github.com/michaelluxwork/potok-task-tracker"><img src="assets/cases/potok-overview.jpg" width="744" alt="Поток — командная канбан-доска и карточка задачи на телефоне. Открыть репозиторий"></a>
+</p>
 
 ## Как работаю
 
