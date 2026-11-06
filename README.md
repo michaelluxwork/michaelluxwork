@@ -37,18 +37,18 @@
 <table role="presentation">
   <tr>
     <td width="80" valign="middle"><img src="assets/steps/step-1.png" width="56" height="56" alt="Шаг 1"></td>
-    <td valign="middle"><strong>Уточняем задачу</strong><br>
-      Разбираемся, что должно заработать и кто будет этим пользоваться.</td>
+    <td valign="middle"><strong>Задача и оценка</strong><br>
+      Уточняю, что должен уметь сайт или приложение. До начала работы согласуем объём, сроки и стоимость.</td>
   </tr>
   <tr>
     <td width="80" valign="middle"><img src="assets/steps/step-2.png" width="56" height="56" alt="Шаг 2"></td>
-    <td valign="middle"><strong>Смотрим первую версию</strong><br>
-      Согласуем объём работы и проверяем первую версию на вашем сценарии.</td>
+    <td valign="middle"><strong>Разработка и демо</strong><br>
+      Показываю рабочую версию. Обсуждаем, что поправить, и я вношу согласованные изменения.</td>
   </tr>
   <tr>
     <td width="80" valign="middle"><img src="assets/steps/step-3.png" width="56" height="56" alt="Шаг 3"></td>
-    <td valign="middle"><strong>Передаю готовый проект</strong><br>
-      Проверяю основные действия и готовлю инструкцию по запуску.</td>
+    <td valign="middle"><strong>Проверка и передача</strong><br>
+      Проверяю основные функции и передаю проект с инструкцией по запуску.</td>
   </tr>
 </table>
 
