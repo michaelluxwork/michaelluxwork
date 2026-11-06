@@ -2,9 +2,9 @@
 
 <table role="presentation">
   <tr>
-    <td valign="middle"><img src="assets/profile/calendar.png" width="28" height="28" align="middle" alt="">&nbsp;<strong>10+ лет в веб-разработке</strong></td>
-    <td valign="middle"><img src="assets/profile/team.png" width="28" height="28" align="middle" alt="">&nbsp;<strong>Опыт работы в команде</strong></td>
-    <td valign="middle"><img src="assets/profile/browser.png" width="28" height="28" align="middle" alt="">&nbsp;<strong>Свои проекты</strong></td>
+    <td valign="middle"><img src="assets/profile/calendar.png" width="28" height="28" align="absmiddle" alt="">&nbsp;<strong>10+ лет опыта</strong></td>
+    <td valign="middle"><img src="assets/profile/team.png" width="28" height="28" align="absmiddle" alt="">&nbsp;<strong>Работа в команде</strong></td>
+    <td valign="middle"><img src="assets/profile/browser.png" width="28" height="28" align="absmiddle" alt="">&nbsp;<strong>Свои проекты</strong></td>
   </tr>
 </table>
 
