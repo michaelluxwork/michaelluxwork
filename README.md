@@ -8,28 +8,29 @@
 
 ## Чем могу помочь
 
-<table role="presentation">
-  <tr>
-    <td width="92" valign="middle"><img src="assets/mockups/website.png" width="64" height="64" alt=""></td>
-    <td valign="middle"><strong>Представить услугу или продукт онлайн</strong><br>
-      Сделаю сайт, на котором клиент сможет разобраться в предложении, выбрать подходящий вариант и оставить заявку.</td>
-  </tr>
-  <tr>
-    <td valign="middle"><img src="assets/mockups/calculator.png" width="64" height="64" alt=""></td>
-    <td valign="middle"><strong>Рассчитать стоимость по вашим правилам</strong><br>
-      Сделаю калькулятор, в котором клиент или сотрудник сможет выбрать нужные параметры, сразу увидеть итог и понять, из чего он складывается.</td>
-  </tr>
-  <tr>
-    <td valign="middle"><img src="assets/mockups/tracker.png" width="64" height="64" alt=""></td>
-    <td valign="middle"><strong>Вести учёт и видеть, что меняется</strong><br>
-      Сделаю трекер, в котором можно фиксировать нужные данные, видеть текущее состояние и смотреть, как оно менялось со временем.</td>
-  </tr>
-  <tr>
-    <td valign="middle"><img src="assets/mockups/update.png" width="64" height="64" alt=""></td>
-    <td valign="middle"><strong>Доработать то, чем вы уже пользуетесь</strong><br>
-      Разберусь в существующем сайте или приложении и добавлю нужную функцию, исправлю неудобный сценарий или обновлю страницу.</td>
-  </tr>
-</table>
+<p>
+  <img src="assets/mockups/website.png" width="64" height="64" align="left" alt="">
+  <strong>Представить услугу или продукт онлайн</strong><br>
+      Сделаю сайт, на котором клиент сможет разобраться в предложении, выбрать подходящий вариант и оставить заявку.<br clear="all">
+</p>
+
+<p>
+  <img src="assets/mockups/calculator.png" width="64" height="64" align="left" alt="">
+  <strong>Рассчитать стоимость по вашим правилам</strong><br>
+      Сделаю калькулятор, в котором клиент или сотрудник сможет выбрать нужные параметры, сразу увидеть итог и понять, из чего он складывается.<br clear="all">
+</p>
+
+<p>
+  <img src="assets/mockups/tracker.png" width="64" height="64" align="left" alt="">
+  <strong>Вести учёт и видеть, что меняется</strong><br>
+      Сделаю трекер, в котором можно фиксировать нужные данные, видеть текущее состояние и смотреть, как оно менялось со временем.<br clear="all">
+</p>
+
+<p>
+  <img src="assets/mockups/update.png" width="64" height="64" align="left" alt="">
+  <strong>Доработать то, чем вы уже пользуетесь</strong><br>
+      Разберусь в существующем сайте или приложении и добавлю нужную функцию, исправлю неудобный сценарий или обновлю страницу.<br clear="all">
+</p>
 
 ## Примеры решений
 
@@ -40,23 +41,23 @@
 
 ## Как работаю
 
-<table role="presentation">
-  <tr>
-    <td width="80" valign="middle"><img src="assets/steps/step-1.png" width="56" height="56" alt="Шаг 1"></td>
-    <td valign="middle"><strong>Задача и оценка</strong><br>
-      Уточняю, что должен уметь сайт или приложение. До начала работы согласуем объём, сроки и стоимость.</td>
-  </tr>
-  <tr>
-    <td width="80" valign="middle"><img src="assets/steps/step-2.png" width="56" height="56" alt="Шаг 2"></td>
-    <td valign="middle"><strong>Разработка и демо</strong><br>
-      Показываю рабочую версию. Обсуждаем, что поправить, и я вношу согласованные изменения.</td>
-  </tr>
-  <tr>
-    <td width="80" valign="middle"><img src="assets/steps/step-3.png" width="56" height="56" alt="Шаг 3"></td>
-    <td valign="middle"><strong>Проверка и передача</strong><br>
-      Проверяю основные функции и передаю проект с инструкцией по запуску.</td>
-  </tr>
-</table>
+<p>
+  <img src="assets/steps/step-1.png" width="56" height="56" align="left" alt="Шаг 1">
+  <strong>Задача и оценка</strong><br>
+      Уточняю, что должен уметь сайт или приложение. До начала работы согласуем объём, сроки и стоимость.<br clear="all">
+</p>
+
+<p>
+  <img src="assets/steps/step-2.png" width="56" height="56" align="left" alt="Шаг 2">
+  <strong>Разработка и демо</strong><br>
+      Показываю рабочую версию. Обсуждаем, что поправить, и я вношу согласованные изменения.<br clear="all">
+</p>
+
+<p>
+  <img src="assets/steps/step-3.png" width="56" height="56" align="left" alt="Шаг 3">
+  <strong>Проверка и передача</strong><br>
+      Проверяю основные функции и передаю проект с инструкцией по запуску.<br clear="all">
+</p>
 
 ## Связаться
 
