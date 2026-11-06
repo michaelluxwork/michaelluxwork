@@ -57,3 +57,5 @@
 Напишите, какой результат вам нужен и к какому сроку. Объём и стоимость согласуем перед работой.
 
 Пишите прямо в личку: [@michaelluxsd](https://t.me/michaelluxsd)
+
+[Мой блог в Telegram](https://t.me/michaelluxsd_work)
