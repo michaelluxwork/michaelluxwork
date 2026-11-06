@@ -1,12 +1,10 @@
 # Решаю задачи бизнеса с помощью сайтов и веб-приложений
 
-<table role="presentation">
-  <tr>
-    <td valign="middle"><img src="assets/profile/calendar.png" width="28" height="28" align="absmiddle" alt="">&nbsp;<strong>10+ лет опыта</strong></td>
-    <td valign="middle"><img src="assets/profile/team.png" width="28" height="28" align="absmiddle" alt="">&nbsp;<strong>Работа в команде</strong></td>
-    <td valign="middle"><img src="assets/profile/browser.png" width="28" height="28" align="absmiddle" alt="">&nbsp;<strong>Свои проекты</strong></td>
-  </tr>
-</table>
+<p>
+  <img src="assets/profile/calendar-fact.svg" width="137" align="absmiddle" alt="10+ лет опыта">&emsp;
+  <img src="assets/profile/team-fact.svg" width="162" align="absmiddle" alt="Работа в команде">&emsp;
+  <img src="assets/profile/browser-fact.svg" width="136" align="absmiddle" alt="Свои проекты">
+</p>
 
 ## Чем могу помочь
 
