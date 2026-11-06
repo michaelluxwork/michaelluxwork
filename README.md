@@ -28,12 +28,8 @@
 ## Примеры решений
 
 <p>
-  <a href="https://gate-service-demo-mw.pages.dev/"><picture><source media="(max-width: 767px)" srcset="assets/cases/gates-overview.jpg" width="1536"><img src="assets/cases/gates-overview.jpg" width="49.5%" alt="Ворота / Сервис — сайт ремонта и монтажа ворот. Открыть демо"></picture></a>
-  <a href="assets/cases/smena-overview.jpg"><picture><source media="(max-width: 767px)" srcset="assets/cases/smena-overview.jpg" width="1536"><img src="assets/cases/smena-overview.jpg" width="49.5%" alt="Смена — калькулятор аренды оборудования. Открыть мокап в полном размере"></picture></a>
-</p>
-
-<p>
-  <a href="https://github.com/michaelluxwork/potok-task-tracker"><img src="assets/cases/potok-overview.jpg" width="100%" alt="Поток — командная канбан-доска и карточка задачи на телефоне. Открыть репозиторий"></a>
+  <a href="https://gate-service-demo-mw.pages.dev/"><picture><source media="(max-width: 767px)" srcset="assets/cases/gates-overview.jpg" width="1536"><img src="assets/cases/gates-overview.jpg" width="50%" align="top" alt="Ворота / Сервис — сайт ремонта и монтажа ворот. Открыть демо"></picture></a><a href="assets/cases/smena-overview.jpg"><picture><source media="(max-width: 767px)" srcset="assets/cases/smena-overview.jpg" width="1536"><img src="assets/cases/smena-overview.jpg" width="50%" align="top" alt="Смена — калькулятор аренды оборудования. Открыть мокап в полном размере"></picture></a>
+  <a href="https://github.com/michaelluxwork/potok-task-tracker"><img src="assets/cases/potok-overview.jpg" width="100%" align="top" alt="Поток — командная канбан-доска и карточка задачи на телефоне. Открыть репозиторий"></a>
 </p>
 
 ## Как работаю
