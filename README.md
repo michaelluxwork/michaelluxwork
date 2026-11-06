@@ -4,7 +4,7 @@
 
 <table role="presentation">
   <tr>
-    <td valign="middle"><img src="assets/mockups/website.png" width="64" height="64" alt=""></td>
+    <td width="92" valign="middle"><img src="assets/mockups/website.png" width="64" height="64" alt=""></td>
     <td valign="middle"><strong>Представить услугу или продукт онлайн</strong><br>
       Сделаю сайт, на котором клиент сможет разобраться в предложении, выбрать подходящий вариант и оставить заявку.</td>
   </tr>
